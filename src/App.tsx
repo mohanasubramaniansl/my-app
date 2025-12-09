@@ -29,7 +29,7 @@ function App() {
           <tr>
             <th>S.No</th>
             <th>Tasks</th>
-            <th></th>
+            <th>pnkchi</th>
           </tr>
           <tr className='border-t'>
             <td>1.</td>
