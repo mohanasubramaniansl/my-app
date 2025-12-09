@@ -28,7 +28,7 @@ function App() {
         <table className='m-1 border-2'>
           <tr>
             <th>S.No</th>
-            <th>Tasks to complete</th>
+            <th>Tasks</th>
             <th></th>
           </tr>
           <tr className='border-t'>
